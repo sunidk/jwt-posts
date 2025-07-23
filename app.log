@@ -1,0 +1,9 @@
+[2025-07-23 21:00:29] INFO: Server started and listening on port 3000
+[2025-07-23 21:00:58] INFO: User registered: sunil
+[2025-07-23 21:01:04] WARN: Register failed: sunil already exists
+[2025-07-23 21:01:10] INFO: User logged in: sunil
+[2025-07-23 21:01:25] INFO: Post created by sunil: fac24731-4018-4f75-95ac-e2cce5045292
+[2025-07-23 21:01:37] INFO: Posts fetched
+[2025-07-23 21:02:12] INFO: Post liked by sunil: fac24731-4018-4f75-95ac-e2cce5045292
+[2025-07-23 21:02:17] INFO: Posts fetched
+[2025-07-23 21:02:43] INFO: Post deleted by sunil: fac24731-4018-4f75-95ac-e2cce5045292
